@@ -42,10 +42,10 @@ struct BowlerData {
     string name;
 
     // Bowler score array
-    int score[NUM_OF_SCORES];
+    int score[NUM_OF_SCORES] = {0,0,0,0,0};
 
     // Bowler average
-    int average;
+    int average = 0;
 };
 
 /* a Boolean returning function called GetBowlingData to readand store data into an array of structures.
