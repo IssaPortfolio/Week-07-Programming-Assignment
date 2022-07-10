@@ -42,7 +42,7 @@ struct BowlerData {
     string name;
 
     // Bowler score array
-    int score[NUM_OF_SCORES] = {0,0,0,0,0};
+    int score[NUM_OF_SCORES] = { 0,0,0,0,0 };
 
     // Bowler average
     int average = 0;
@@ -174,12 +174,10 @@ int main()
 
 
 /*
-
     GetBowlingData(INPUTFILENAME, bowlers.name, bowlers.score);
     GetAverageScore(bowlers.name, bowlers.score, bowlers.average);
     PrettyPrintResults(bowlers.name, bowlers.score, bowlers.average);
-
     old code ^
-    I realized this is not the way the assignment wants us to do it after reading it again.
 
+    I realized this is not the way the assignment wants us to do it after reading it again.
 */
