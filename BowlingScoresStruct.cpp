@@ -33,7 +33,7 @@
 using namespace std;
 
 // CONSTANT VARIABLES
-const int NUM_OF_BOWLERS = 11;
+const int NUM_OF_BOWLERS = 10;
 const int NUM_OF_SCORES = 5;
 
 // Bowler Structure
