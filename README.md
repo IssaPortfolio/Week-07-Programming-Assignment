@@ -13,7 +13,8 @@ Note: The file format is guaranteed to remain the same.
         which it should fill from the file (BowlingScores.txt  download) 
         and return a status of either success or failure (i.e., true or false). 
       • a void function called GetAverageScore that is used to calculate the average bowling score. 
-        The function should take as input the array of structures which it should fill with the average score of each bowler.
+        The function should take as input the array of structures which 
+        it should fill with the average score of each bowler.
       • a void function called PrettyPrintResults to output the results, i.e., bowler name, scores and average.
       
     • Don't use Vectors or any other newfangled container, use only old school C arrays like in the book.
