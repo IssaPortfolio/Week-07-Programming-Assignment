@@ -26,4 +26,4 @@ Note: The file format is guaranteed to remain the same.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-Added new bowler, "IssaHabeeb," and added fifth score to each bowler.
+Added fifth score to each bowler.
